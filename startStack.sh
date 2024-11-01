@@ -261,7 +261,7 @@ if [ -e "StackDados" ]; then
 fi
 
 # Baixa o script
-curl -sSL https://raw.githubusercontent.com/srthiagofreitas/stackDados/refs/heads/main/setupDados.sh -o StackDados
+curl -sSL https://raw.githubusercontent.com/srthiagofreitas/stackDados/main/setupDados.sh -o StackDados
 if [ $? -eq 0 ]; then
     echo "13/13 - [ OK ] - Baixando o script"
     # Executa o script baixado
