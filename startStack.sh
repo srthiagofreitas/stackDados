@@ -69,7 +69,7 @@ nome_iniciando(){
     echo -e "$amarelo=                  $branco ██║██║╚██╗██║██║██║     ██║██╔══██║██║╚██╗██║██║  ██║██║   ██║                $amarelo=$reset"
     echo -e "$amarelo=                  $branco ██║██║ ╚████║██║╚██████╗██║██║  ██║██║ ╚████║██████╔╝╚██████╔╝                $amarelo=$reset"
     echo -e "$amarelo=                  $branco ╚═╝╚═╝  ╚═══╝╚═╝ ╚═════╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝  ╚═════╝                 $amarelo=$reset"
-    echo -e "$amarelo=                                              v. 1.0                                                    $amarelo=$reset"
+    echo -e "$amarelo=                                              v. 1.0.0                                                  $amarelo=$reset"
     echo -e "$amarelo===================================================================================================$reset"
     echo ""
     echo ""
