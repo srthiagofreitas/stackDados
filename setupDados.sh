@@ -6,10 +6,5 @@
 
 versao() {
 echo -e "                                   \e[97mVersão do SetupStackDados: \e[32mv. 1.0\e[0m                                  "
+echo ""
 }
-
-
-            ;;
-    esac
-    echo ""
-done
